@@ -43,7 +43,7 @@ func main() {
 		"Enable Block level attributes")
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Markdown Processor "+
-			"\nAvailable at http://github.com/gomarkdown/markdown/cmd/mdtohtml\n\n"+
+			"\nAvailable at http://github.com/wendellrios/mdtohtml\n\n"+
 			"Copyright © 2011 Russ Ross <russ@russross.com>\n"+
 			"Copyright © 2018 Krzysztof Kowalczyk <https://blog.kowalczyk.info>\n"+
 			"Distributed under the Simplified BSD License\n"+
